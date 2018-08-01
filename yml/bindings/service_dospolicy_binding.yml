@@ -1,0 +1,6 @@
+fields:
+  name:                                   service.name
+  policyname:                             dospolicy.name
+key:
+  - name
+  - policyname

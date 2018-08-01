@@ -1,0 +1,8 @@
+key:
+  name:                                   name
+fields:
+  rule:                                   string
+  action:                                 tmtrafficaction.name
+update:
+  - rule
+  - action

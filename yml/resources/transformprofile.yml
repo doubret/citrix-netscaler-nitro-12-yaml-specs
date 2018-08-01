@@ -1,0 +1,10 @@
+key:
+  name:                                   name
+fields:
+  type:                                   (URL)
+  onlytransformabsurlinbody:              (ON|OFF)
+  comment:                                string
+update:
+  - type
+  - onlytransformabsurlinbody
+  - comment

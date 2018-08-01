@@ -1,0 +1,8 @@
+fields:
+  name:                                   service.name
+  monitor_name:                           lbmonitor.monitorname
+  monstate:                               string
+  weight:                                 double
+  passive:                                bool
+key:
+  - name

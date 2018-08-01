@@ -1,0 +1,8 @@
+key:
+  name:                                   name
+fields:
+  rule:                                   string
+  action:                                 tmsessionaction.name
+update:
+  - rule
+  - action

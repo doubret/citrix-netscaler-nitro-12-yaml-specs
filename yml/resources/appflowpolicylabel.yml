@@ -1,0 +1,4 @@
+key:
+  name:                     labelname
+fields:
+  policylabeltype:          (HTTP|OTHERTCP)

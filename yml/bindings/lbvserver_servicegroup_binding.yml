@@ -1,0 +1,7 @@
+fields:
+  name:                                   lbvserver.name
+  servicegroupname:                       servicegroup.servicegroupname
+  weight:                                 double
+key:
+  - name
+  - servicegroupname

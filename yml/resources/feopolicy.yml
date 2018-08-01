@@ -1,0 +1,8 @@
+key:
+  name:                     name
+fields:
+  rule:                     string
+  action:                   feoaction.name
+update:
+  - rule
+  - action

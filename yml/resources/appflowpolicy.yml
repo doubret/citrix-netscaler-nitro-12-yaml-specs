@@ -1,0 +1,12 @@
+key:
+  name:                     name
+fields:
+  rule:                     string
+  comment:                  string
+  action:                   appflowaction.name
+  undefaction:              appflowaction.name
+update:
+  - rule
+  - action
+  - undefaction
+  - comment

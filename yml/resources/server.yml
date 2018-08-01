@@ -1,0 +1,18 @@
+key:
+  name:                     name
+state:                      state
+fields:
+  comment:                  string
+  domain:                   string
+  domainresolveretry:       int
+  ipaddress:                ip
+  td:                       double
+  translationip:            ip
+  translationmask:          ip_mask
+  ipv6address:              (YES|NO)
+update:
+  - comment
+  - domainresolveretry
+  - ipaddress
+  - translationip
+  - translationmask

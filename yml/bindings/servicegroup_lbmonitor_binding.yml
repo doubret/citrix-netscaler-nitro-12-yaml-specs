@@ -1,0 +1,7 @@
+fields:
+  servicegroupname:                       servicegroup.servicegroupname
+  monitor_name:                           lbmonitor.monitorname
+  weight:                                 double
+key:
+  - servicegroupname
+  - monitor_name

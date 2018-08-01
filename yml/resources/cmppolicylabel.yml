@@ -1,0 +1,4 @@
+key:
+  name:                     labelname
+fields:
+  type:                     (REQ|RES)

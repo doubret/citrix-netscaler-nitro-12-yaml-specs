@@ -1,0 +1,16 @@
+key:
+  name:                                   name
+fields:
+  rule:                                   string
+  action:                                 responderaction.name
+  undefaction:                            (NOOP|RESET|DROP)
+  comment:                                string
+  logaction:                              string
+  appflowaction:                          appflowaction.name
+update:
+  - rule
+  - action
+  - undefaction
+  - comment
+  - logaction
+  - appflowaction

@@ -1,0 +1,10 @@
+key:
+  name:                     name
+fields:
+  rule:                     string
+  reqaction:                filteraction.name
+  resaction:                filteraction.name
+update:
+  - rule
+  - reqaction
+  - resaction

@@ -1,0 +1,13 @@
+key:
+  name:                     name
+fields:
+  qual:                     (reset|add|corrupt|forward|errorcode|drop)
+  value:                    string
+  respcode:                 double
+  page:                     string
+  servicename:              service.name
+update:
+  - servicename
+  - value
+  - respcode
+  - page

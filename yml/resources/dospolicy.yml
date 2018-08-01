@@ -1,0 +1,8 @@
+key:
+  name:                     name
+fields:
+  qdepth:                   double
+  cltdetectrate:            double
+update:
+  - qdepth
+  - cltdetectrate

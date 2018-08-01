@@ -1,0 +1,6 @@
+fields:
+  name:                                   service.name
+  policyname:                             scpolicy.name
+key:
+  - name
+  - policyname

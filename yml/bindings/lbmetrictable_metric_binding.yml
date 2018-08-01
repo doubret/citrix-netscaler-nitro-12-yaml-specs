@@ -1,0 +1,7 @@
+fields:
+  metrictable:                            lbmetrictable.metrictable
+  metric:                                 string
+  snmpoid:                                string
+key:
+  - metrictable
+  - metric

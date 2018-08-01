@@ -1,0 +1,7 @@
+fields:
+  name:                                   policydataset.name
+  value:                                  string
+  index:                                  double
+key:
+  - name
+  - value
