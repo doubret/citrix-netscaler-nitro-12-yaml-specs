@@ -4,12 +4,12 @@ Yaml specifications of the citrix netscaler nitro api
 
 ## Resources
 
-<% foreach($resource in $resources.GetEnumerator()) { -%>
+<% foreach($resource in $resources.GetEnumerator() | Sort) { -%>
 - [<%= $resource.Name %>](doc/resources/<%= $resource.Name %>.md)
 <% } -%>
 
 ## Bindings
 
-<% foreach($binding in $bindings.GetEnumerator()) { -%>
+<% foreach($binding in $bindings.GetEnumerator() | Sort) { -%>
 - [<%= $binding.Name %>](doc/bindings/<%= $binding.Name %>.md)
 <% } -%>
