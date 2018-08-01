@@ -29,8 +29,8 @@ Identifier : lbprofilename
 | lbprofilename | No | string |
 | cookiepassphrase | No | string |
 | dbslb | No | ENABLED, DISABLED |
-| processlocal | No | ENABLED, DISABLED |
 | httponlycookieflag | No | ENABLED, DISABLED |
-| usesecuredpersistencecookie | No | ENABLED, DISABLED |
+| processlocal | No | ENABLED, DISABLED |
 | useencryptedpersistencecookie | No | ENABLED, DISABLED |
+| usesecuredpersistencecookie | No | ENABLED, DISABLED |
 

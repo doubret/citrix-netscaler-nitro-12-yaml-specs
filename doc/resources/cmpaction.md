@@ -27,8 +27,8 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| varyheadervalue | No | string |
 | addvaryheader | No | GLOBAL, DISABLED, ENABLED |
 | cmptype | No | compress, gzip, deflate, nocompress |
 | deltatype | No | PERURL, PERPOLICY |
+| varyheadervalue | No | string |
 

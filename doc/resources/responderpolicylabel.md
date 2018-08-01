@@ -27,6 +27,6 @@ Identifier : labelname
 | Name | Update | Type |
 |----|----|----|
 | labelname | No | string |
-| policylabeltype | No | HTTP, OTHERTCP, SIP_UDP, SIP_TCP, MYSQL, MSSQL, NAT, DIAMETER, RADIUS, DNS |
 | comment | No | string |
+| policylabeltype | No | HTTP, OTHERTCP, SIP_UDP, SIP_TCP, MYSQL, MSSQL, NAT, DIAMETER, RADIUS, DNS |
 

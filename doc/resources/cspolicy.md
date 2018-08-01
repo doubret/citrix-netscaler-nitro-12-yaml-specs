@@ -27,9 +27,9 @@ Identifier : policyname
 | Name | Update | Type |
 |----|----|----|
 | policyname | No | string |
-| url | No | string |
-| rule | No | string |
+| action | No | csaction.name |
 | domain | No | string |
 | logaction | No | string |
-| action | No | csaction.name |
+| rule | No | string |
+| url | No | string |
 

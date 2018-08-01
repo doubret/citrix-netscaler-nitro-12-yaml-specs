@@ -27,6 +27,6 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| rule | No | string |
 | action | No | tmsessionaction.name |
+| rule | No | string |
 

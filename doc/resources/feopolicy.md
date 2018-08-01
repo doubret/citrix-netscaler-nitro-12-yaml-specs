@@ -27,6 +27,6 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| rule | No | string |
 | action | No | feoaction.name |
+| rule | No | string |
 

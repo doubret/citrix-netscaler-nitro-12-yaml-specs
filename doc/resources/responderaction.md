@@ -27,11 +27,11 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| type | No | noop, respondwith, redirect, respondwithhtmlpage, sqlresponse_ok, sqlresponse_error |
-| target | No | string |
-| htmlpage | No | string |
 | bypasssafetycheck | No | YES, NO |
 | comment | No | string |
-| responsestatuscode | No | double |
+| htmlpage | No | string |
 | reasonphrase | No | string |
+| responsestatuscode | No | double |
+| target | No | string |
+| type | No | noop, respondwith, redirect, respondwithhtmlpage, sqlresponse_ok, sqlresponse_error |
 

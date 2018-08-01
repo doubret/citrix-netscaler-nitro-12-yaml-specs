@@ -27,42 +27,42 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| weakposrelexpiry | No | double |
-| heurexpiryparam | No | double |
-| relexpiry | No | double |
-| relexpirymillisec | No | double |
 | absexpiry | No | string[] |
 | absexpirygmt | No | string[] |
-| weaknegrelexpiry | No | double |
-| hitparams | No | string[] |
-| invalparams | No | string[] |
-| ignoreparamvaluecase | No | YES, NO |
-| matchcookies | No | YES, NO |
-| invalrestrictedtohost | No | YES, NO |
-| polleverytime | No | YES, NO |
-| ignorereloadreq | No | YES, NO |
-| removecookies | No | YES, NO |
-| prefetch | No | YES, NO |
-| prefetchperiod | No | double |
-| prefetchperiodmillisec | No | double |
-| prefetchmaxpending | No | double |
-| flashcache | No | YES, NO |
+| alwaysevalpolicies | No | YES, NO |
+| cachecontrol | No | string |
 | expireatlastbyte | No | YES, NO |
-| insertvia | No | YES, NO |
+| flashcache | No | YES, NO |
+| heurexpiryparam | No | double |
+| hitparams | No | string[] |
+| hitselector | No | string |
+| ignoreparamvaluecase | No | YES, NO |
+| ignorereloadreq | No | YES, NO |
+| ignorereqcachinghdrs | No | YES, NO |
 | insertage | No | YES, NO |
 | insertetag | No | YES, NO |
-| cachecontrol | No | string |
-| quickabortsize | No | double |
-| minressize | No | double |
+| insertvia | No | YES, NO |
+| invalparams | No | string[] |
+| invalrestrictedtohost | No | YES, NO |
+| invalselector | No | string |
+| lazydnsresolve | No | YES, NO |
+| matchcookies | No | YES, NO |
 | maxressize | No | double |
 | memlimit | No | double |
-| ignorereqcachinghdrs | No | YES, NO |
 | minhits | No | int |
-| alwaysevalpolicies | No | YES, NO |
+| minressize | No | double |
 | persistha | No | YES, NO |
 | pinned | No | YES, NO |
-| lazydnsresolve | No | YES, NO |
-| hitselector | No | string |
-| invalselector | No | string |
+| polleverytime | No | YES, NO |
+| prefetch | No | YES, NO |
+| prefetchmaxpending | No | double |
+| prefetchperiod | No | double |
+| prefetchperiodmillisec | No | double |
+| quickabortsize | No | double |
+| relexpiry | No | double |
+| relexpirymillisec | No | double |
+| removecookies | No | YES, NO |
 | type | No | HTTP, MYSQL, MSSQL |
+| weaknegrelexpiry | No | double |
+| weakposrelexpiry | No | double |
 

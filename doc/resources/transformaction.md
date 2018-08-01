@@ -27,14 +27,14 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| profilename | No | transformprofile.name |
+| comment | No | string |
+| cookiedomainfrom | No | string |
+| cookiedomaininto | No | string |
 | priority | No | double |
-| state | No | ENABLED, DISABLED |
+| profilename | No | transformprofile.name |
 | requrlfrom | No | string |
 | requrlinto | No | string |
 | resurlfrom | No | string |
 | resurlinto | No | string |
-| cookiedomainfrom | No | string |
-| cookiedomaininto | No | string |
-| comment | No | string |
+| state | No | ENABLED, DISABLED |
 

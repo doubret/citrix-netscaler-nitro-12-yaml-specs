@@ -27,6 +27,6 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| qdepth | No | double |
 | cltdetectrate | No | double |
+| qdepth | No | double |
 

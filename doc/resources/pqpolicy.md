@@ -27,9 +27,9 @@ Identifier : policyname
 | Name | Update | Type |
 |----|----|----|
 | policyname | No | string |
-| rule | No | string |
-| priority | No | double |
-| weight | No | double |
-| qdepth | No | double |
 | polqdepth | No | double |
+| priority | No | double |
+| qdepth | No | double |
+| rule | No | string |
+| weight | No | double |
 

@@ -28,13 +28,13 @@ Identifier : name
 |----|----|----|
 | name | No | string |
 | backuppersistencetimeout | No | double |
-| persistmask | No | string |
-| cookiename | No | string |
-| v6persistmasklen | No | double |
 | cookiedomain | No | string |
-| timeout | No | double |
-| rule | No | string |
-| persistencetype | No | SOURCEIP, COOKIEINSERT, RULE, NONE |
+| cookiename | No | string |
 | persistencebackup | No | SOURCEIP, NONE |
+| persistencetype | No | SOURCEIP, COOKIEINSERT, RULE, NONE |
+| persistmask | No | string |
+| rule | No | string |
+| timeout | No | double |
 | usevserverpersistency | No | ENABLED, DISABLED |
+| v6persistmasklen | No | double |
 

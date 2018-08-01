@@ -27,36 +27,36 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| reusepooltimeout | No | double |
-| maxheaderlen | No | double |
-| minreusepool | No | double |
-| http2maxheaderlistsize | No | double |
-| http2maxframesize | No | double |
-| http2maxconcurrentstreams | No | double |
-| http2initialwindowsize | No | double |
-| http2headertablesize | No | double |
-| http2minseverconn | No | double |
+| adpttimeout | No | ENABLED, DISABLED |
+| altsvc | No | ENABLED, DISABLED |
 | apdexcltresptimethreshold | No | double |
-| maxreusepool | No | double |
-| incomphdrdelay | No | double |
-| reqtimeout | No | double |
-| reqtimeoutaction | No | string |
 | clientiphdrexpr | No | string |
-| maxreq | No | double |
-| dropinvalreqs | No | ENABLED, DISABLED |
-| markhttp09inval | No | ENABLED, DISABLED |
-| markconnreqinval | No | ENABLED, DISABLED |
 | cmponpush | No | ENABLED, DISABLED |
 | conmultiplex | No | ENABLED, DISABLED |
 | dropextracrlf | No | ENABLED, DISABLED |
-| websocket | No | ENABLED, DISABLED |
-| rtsptunnel | No | ENABLED, DISABLED |
-| adpttimeout | No | ENABLED, DISABLED |
 | dropextradata | No | ENABLED, DISABLED |
-| weblog | No | ENABLED, DISABLED |
-| persistentetag | No | ENABLED, DISABLED |
-| spdy | No | DISABLED, ENABLED, V2, V3 |
+| dropinvalreqs | No | ENABLED, DISABLED |
 | http2 | No | ENABLED, DISABLED |
 | http2direct | No | ENABLED, DISABLED |
-| altsvc | No | ENABLED, DISABLED |
+| http2headertablesize | No | double |
+| http2initialwindowsize | No | double |
+| http2maxconcurrentstreams | No | double |
+| http2maxframesize | No | double |
+| http2maxheaderlistsize | No | double |
+| http2minseverconn | No | double |
+| incomphdrdelay | No | double |
+| markconnreqinval | No | ENABLED, DISABLED |
+| markhttp09inval | No | ENABLED, DISABLED |
+| maxheaderlen | No | double |
+| maxreq | No | double |
+| maxreusepool | No | double |
+| minreusepool | No | double |
+| persistentetag | No | ENABLED, DISABLED |
+| reqtimeout | No | double |
+| reqtimeoutaction | No | string |
+| reusepooltimeout | No | double |
+| rtsptunnel | No | ENABLED, DISABLED |
+| spdy | No | DISABLED, ENABLED, V2, V3 |
+| weblog | No | ENABLED, DISABLED |
+| websocket | No | ENABLED, DISABLED |
 

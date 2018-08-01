@@ -27,8 +27,8 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| targetvserver | No | string |
-| targetvserverexpr | No | string |
 | comment | No | string |
 | targetlbvserver | No | lbvserver.name |
+| targetvserver | No | string |
+| targetvserverexpr | No | string |
 

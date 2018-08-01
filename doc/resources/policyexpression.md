@@ -27,8 +27,8 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| value | No | string |
-| description | No | string |
-| comment | No | string |
 | clientsecuritymessage | No | string |
+| comment | No | string |
+| description | No | string |
+| value | No | string |
 

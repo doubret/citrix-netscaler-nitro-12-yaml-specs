@@ -27,9 +27,9 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| rule | No | string |
 | action | No | rewriteaction.name |
-| undefaction | No | rewriteaction.name |
 | comment | No | string |
 | logaction | No | string |
+| rule | No | string |
+| undefaction | No | rewriteaction.name |
 

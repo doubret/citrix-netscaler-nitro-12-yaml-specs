@@ -28,7 +28,7 @@ Identifier : name
 |----|----|----|
 | name | No | string |
 | ipaddress | No | ip |
+| netprofile | No | netprofile.name |
 | port | No | int |
 | transport | No | ipfix, logstream |
-| netprofile | No | netprofile.name |
 

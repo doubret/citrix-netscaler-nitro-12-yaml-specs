@@ -32,8 +32,8 @@ Identifier : name
 | domain | No | string |
 | domainresolveretry | No | int |
 | ipaddress | No | ip |
+| ipv6address | No | YES, NO |
 | td | No | double |
 | translationip | No | ip |
 | translationmask | No | ip_mask |
-| ipv6address | No | YES, NO |
 

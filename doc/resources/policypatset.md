@@ -27,6 +27,6 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| indextype | No | Auto-generated, User-defined |
 | comment | No | string |
+| indextype | No | Auto-generated, User-defined |
 

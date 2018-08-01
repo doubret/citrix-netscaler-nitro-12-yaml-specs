@@ -27,7 +27,7 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| type | No | URL |
-| onlytransformabsurlinbody | No | ON, OFF |
 | comment | No | string |
+| onlytransformabsurlinbody | No | ON, OFF |
+| type | No | URL |
 

@@ -27,14 +27,14 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| sesstimeout | No | double |
 | defaultauthorizationaction | No | ALLOW, DENY |
-| sso | No | ON, OFF |
-| ssocredential | No | PRIMARY, SECONDARY |
-| ssodomain | No | string |
+| homepage | No | string |
 | httponlycookie | No | YES, NO |
 | kcdaccount | No | string |
 | persistentcookie | No | YES, NO |
 | persistentcookievalidity | No | double |
-| homepage | No | string |
+| sesstimeout | No | double |
+| sso | No | ON, OFF |
+| ssocredential | No | PRIMARY, SECONDARY |
+| ssodomain | No | string |
 

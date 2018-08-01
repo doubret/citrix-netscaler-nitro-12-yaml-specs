@@ -27,12 +27,12 @@ Identifier : dnsprofilename
 | Name | Update | Type |
 |----|----|----|
 | dnsprofilename | No | string |
-| dnsquerylogging | No | ENABLED, DISABLED |
-| dnsanswerseclogging | No | ENABLED, DISABLED |
-| dnsextendedlogging | No | ENABLED, DISABLED |
-| dnserrorlogging | No | ENABLED, DISABLED |
-| cacherecords | No | ENABLED, DISABLED |
-| cachenegativeresponses | No | ENABLED, DISABLED |
-| dropmultiqueryrequest | No | ENABLED, DISABLED |
 | cacheecsresponses | No | ENABLED, DISABLED |
+| cachenegativeresponses | No | ENABLED, DISABLED |
+| cacherecords | No | ENABLED, DISABLED |
+| dnsanswerseclogging | No | ENABLED, DISABLED |
+| dnserrorlogging | No | ENABLED, DISABLED |
+| dnsextendedlogging | No | ENABLED, DISABLED |
+| dnsquerylogging | No | ENABLED, DISABLED |
+| dropmultiqueryrequest | No | ENABLED, DISABLED |
 

@@ -27,37 +27,37 @@ Identifier : servicegroupname
 | Name | Update | Type |
 |----|----|----|
 | servicegroupname | No | string |
-| servicetype | No | HTTP, FTP, TCP, UDP, SSL, SSL_BRIDGE, SSL_TCP, DTLS, NNTP, RPCSVR, DNS, ADNS, SNMP, RTSP, DHCPRA, ANY, SIP_UDP, SIP_TCP, SIP_SSL, DNS_TCP, ADNS_TCP, MYSQL, MSSQL, ORACLE, RADIUS, RADIUSListener, RDP, DIAMETER, SSL_DIAMETER, TFTP, SMPP, PPTP, GRE, SYSLOGTCP, SYSLOGUDP, FIX, SSL_FIX, USER_TCP, USER_SSL_TCP |
-| cachetype | No | TRANSPARENT, REVERSE, FORWARD |
-| td | No | double |
-| maxclient | No | double |
-| maxreq | No | double |
+| appflowlog | No | ENABLED, DISABLED |
+| autoscale | No | DISABLED, DNS, POLICY |
 | cacheable | No | YES, NO |
+| cachetype | No | TRANSPARENT, REVERSE, FORWARD |
 | cip | No | ENABLED, DISABLED |
 | cipheader | No | string |
-| usip | No | YES, NO |
-| pathmonitor | No | YES, NO |
-| pathmonitorindv | No | YES, NO |
-| useproxyport | No | YES, NO |
-| healthmonitor | No | YES, NO |
-| sc | No | ON, OFF |
-| sp | No | ON, OFF |
-| rtspsessionidremap | No | ON, OFF |
-| clttimeout | No | int |
-| svrtimeout | No | int |
 | cka | No | YES, NO |
-| tcpb | No | YES, NO |
+| clttimeout | No | int |
 | cmp | No | YES, NO |
-| maxbandwidth | No | double |
-| monthreshold | No | double |
-| state | No | ENABLED, DISABLED |
-| downstateflush | No | ENABLED, DISABLED |
-| tcpprofilename | No | nstcpprofile.name |
-| httpprofilename | No | nshttpprofile.name |
 | comment | No | string |
-| appflowlog | No | ENABLED, DISABLED |
-| netprofile | No | netprofile.name |
-| autoscale | No | DISABLED, DNS, POLICY |
+| downstateflush | No | ENABLED, DISABLED |
+| healthmonitor | No | YES, NO |
+| httpprofilename | No | nshttpprofile.name |
+| maxbandwidth | No | double |
+| maxclient | No | double |
+| maxreq | No | double |
 | memberport | No | int |
 | monconnectionclose | No | RESET, FIN |
+| monthreshold | No | double |
+| netprofile | No | netprofile.name |
+| pathmonitor | No | YES, NO |
+| pathmonitorindv | No | YES, NO |
+| rtspsessionidremap | No | ON, OFF |
+| sc | No | ON, OFF |
+| servicetype | No | HTTP, FTP, TCP, UDP, SSL, SSL_BRIDGE, SSL_TCP, DTLS, NNTP, RPCSVR, DNS, ADNS, SNMP, RTSP, DHCPRA, ANY, SIP_UDP, SIP_TCP, SIP_SSL, DNS_TCP, ADNS_TCP, MYSQL, MSSQL, ORACLE, RADIUS, RADIUSListener, RDP, DIAMETER, SSL_DIAMETER, TFTP, SMPP, PPTP, GRE, SYSLOGTCP, SYSLOGUDP, FIX, SSL_FIX, USER_TCP, USER_SSL_TCP |
+| sp | No | ON, OFF |
+| state | No | ENABLED, DISABLED |
+| svrtimeout | No | int |
+| tcpb | No | YES, NO |
+| tcpprofilename | No | nstcpprofile.name |
+| td | No | double |
+| useproxyport | No | YES, NO |
+| usip | No | YES, NO |
 

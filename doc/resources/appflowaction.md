@@ -27,14 +27,14 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| metricslog | No | bool |
-| comment | No | string |
 | clientsidemeasurements | No | ENABLED, DISABLED |
-| pagetracking | No | ENABLED, DISABLED |
-| webinsight | No | ENABLED, DISABLED |
-| securityinsight | No | ENABLED, DISABLED |
-| videoanalytics | No | ENABLED, DISABLED |
-| distributionalgorithm | No | ENABLED, DISABLED |
-| transactionlog | No | ANOMALOUS, NONE, ALL |
 | collectors | No | appflowcollector.name[] |
+| comment | No | string |
+| distributionalgorithm | No | ENABLED, DISABLED |
+| metricslog | No | bool |
+| pagetracking | No | ENABLED, DISABLED |
+| securityinsight | No | ENABLED, DISABLED |
+| transactionlog | No | ANOMALOUS, NONE, ALL |
+| videoanalytics | No | ENABLED, DISABLED |
+| webinsight | No | ENABLED, DISABLED |
 

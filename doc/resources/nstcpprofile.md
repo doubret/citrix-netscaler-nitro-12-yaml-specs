@@ -27,53 +27,53 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| ws | No | ENABLED, DISABLED |
-| sack | No | ENABLED, DISABLED |
-| wsval | No | double |
-| nagle | No | ENABLED, DISABLED |
+| ackaggregation | No | ENABLED, DISABLED |
 | ackonpush | No | ENABLED, DISABLED |
-| mss | No | double |
-| maxburst | No | double |
-| initialcwnd | No | double |
-| delayedack | No | double |
-| oooqsize | No | double |
-| maxpktpermss | No | double |
-| pktperretx | No | double |
-| minrto | No | double |
-| slowstartincr | No | double |
 | buffersize | No | double |
-| syncookie | No | ENABLED, DISABLED |
-| kaprobeupdatelastactivity | No | ENABLED, DISABLED |
-| flavor | No | Default, Westwood, BIC, CUBIC, Nile |
+| burstratecontrol | No | DISABLED, FIXED, DYNAMIC |
+| delayedack | No | double |
+| dropestconnontimeout | No | ENABLED, DISABLED |
+| drophalfclosedconnontimeout | No | ENABLED, DISABLED |
+| dsack | No | ENABLED, DISABLED |
+| dupackthresh | No | double |
 | dynamicreceivebuffering | No | ENABLED, DISABLED |
+| ecn | No | ENABLED, DISABLED |
+| establishclientconn | No | AUTOMATIC, CONN_ESTABLISHED, ON_FIRST_DATA |
+| fack | No | ENABLED, DISABLED |
+| flavor | No | Default, Westwood, BIC, CUBIC, Nile |
+| frto | No | ENABLED, DISABLED |
+| hystart | No | ENABLED, DISABLED |
+| initialcwnd | No | double |
 | ka | No | ENABLED, DISABLED |
 | kaconnidletime | No | double |
 | kamaxprobes | No | double |
 | kaprobeinterval | No | double |
-| sendbuffsize | No | double |
+| kaprobeupdatelastactivity | No | ENABLED, DISABLED |
+| maxburst | No | double |
+| maxcwnd | No | double |
+| maxpktpermss | No | double |
+| minrto | No | double |
 | mptcp | No | ENABLED, DISABLED |
-| establishclientconn | No | AUTOMATIC, CONN_ESTABLISHED, ON_FIRST_DATA |
-| tcpsegoffload | No | AUTOMATIC, DISABLED |
-| rstwindowattenuate | No | ENABLED, DISABLED |
-| rstmaxack | No | ENABLED, DISABLED |
-| spoofsyndrop | No | ENABLED, DISABLED |
-| ecn | No | ENABLED, DISABLED |
 | mptcpdropdataonpreestsf | No | ENABLED, DISABLED |
 | mptcpfastopen | No | ENABLED, DISABLED |
 | mptcpsessiontimeout | No | double |
-| timestamp | No | ENABLED, DISABLED |
-| dsack | No | ENABLED, DISABLED |
-| ackaggregation | No | ENABLED, DISABLED |
-| frto | No | ENABLED, DISABLED |
-| maxcwnd | No | double |
-| fack | No | ENABLED, DISABLED |
-| tcpmode | No | TRANSPARENT, ENDPOINT |
-| tcpfastopen | No | ENABLED, DISABLED |
-| hystart | No | ENABLED, DISABLED |
-| dupackthresh | No | double |
-| burstratecontrol | No | DISABLED, FIXED, DYNAMIC |
-| tcprate | No | double |
+| mss | No | double |
+| nagle | No | ENABLED, DISABLED |
+| oooqsize | No | double |
+| pktperretx | No | double |
 | rateqmax | No | double |
-| drophalfclosedconnontimeout | No | ENABLED, DISABLED |
-| dropestconnontimeout | No | ENABLED, DISABLED |
+| rstmaxack | No | ENABLED, DISABLED |
+| rstwindowattenuate | No | ENABLED, DISABLED |
+| sack | No | ENABLED, DISABLED |
+| sendbuffsize | No | double |
+| slowstartincr | No | double |
+| spoofsyndrop | No | ENABLED, DISABLED |
+| syncookie | No | ENABLED, DISABLED |
+| tcpfastopen | No | ENABLED, DISABLED |
+| tcpmode | No | TRANSPARENT, ENDPOINT |
+| tcprate | No | double |
+| tcpsegoffload | No | AUTOMATIC, DISABLED |
+| timestamp | No | ENABLED, DISABLED |
+| ws | No | ENABLED, DISABLED |
+| wsval | No | double |
 

@@ -27,8 +27,8 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| td | No | double |
+| overridelsn | No | ENABLED, DISABLED |
 | srcip | No | ip |
 | srcippersistency | No | ENABLED, DISABLED |
-| overridelsn | No | ENABLED, DISABLED |
+| td | No | double |
 

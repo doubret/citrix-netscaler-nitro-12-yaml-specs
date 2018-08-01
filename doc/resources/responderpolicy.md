@@ -27,10 +27,10 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| rule | No | string |
 | action | No | responderaction.name |
-| undefaction | No | NOOP, RESET, DROP |
+| appflowaction | No | appflowaction.name |
 | comment | No | string |
 | logaction | No | string |
-| appflowaction | No | appflowaction.name |
+| rule | No | string |
+| undefaction | No | NOOP, RESET, DROP |
 

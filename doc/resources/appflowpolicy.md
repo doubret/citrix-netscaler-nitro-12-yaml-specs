@@ -27,8 +27,8 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| rule | No | string |
-| comment | No | string |
 | action | No | appflowaction.name |
+| comment | No | string |
+| rule | No | string |
 | undefaction | No | appflowaction.name |
 

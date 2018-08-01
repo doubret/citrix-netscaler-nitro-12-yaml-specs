@@ -27,10 +27,10 @@ Identifier : policyname
 | Name | Update | Type |
 |----|----|----|
 | policyname | No | string |
-| rule | No | string |
-| storeingroup | No | cachecontentgroup.name |
+| action | No | CACHE, NOCACHE, MAY_CACHE, MAY_NOCACHE, INVAL |
 | invalgroups | No | cachecontentgroup.name[] |
 | invalobjects | No | cachecontentgroup.name[] |
-| action | No | CACHE, NOCACHE, MAY_CACHE, MAY_NOCACHE, INVAL |
+| rule | No | string |
+| storeingroup | No | cachecontentgroup.name |
 | undefaction | No | NOCACHE, RESET |
 

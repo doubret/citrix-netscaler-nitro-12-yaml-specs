@@ -27,7 +27,7 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| type | No | ipv4, number, ipv6, ulong, double, mac |
-| indextype | No | Auto-generated, User-defined |
 | comment | No | string |
+| indextype | No | Auto-generated, User-defined |
+| type | No | ipv4, number, ipv6, ulong, double, mac |
 

@@ -28,14 +28,14 @@ Identifier : name
 |----|----|----|
 | name | No | string |
 | apptimeout | No | double |
-| sso | No | ON, OFF |
-| formssoaction | No | string |
-| persistentcookie | No | ON, OFF |
-| initiatelogout | No | ON, OFF |
-| kcdaccount | No | string |
-| samlssoprofile | No | string |
 | forcedtimeout | No | START, STOP, RESET |
 | forcedtimeoutval | No | double |
-| userexpression | No | string |
+| formssoaction | No | string |
+| initiatelogout | No | ON, OFF |
+| kcdaccount | No | string |
 | passwdexpression | No | string |
+| persistentcookie | No | ON, OFF |
+| samlssoprofile | No | string |
+| sso | No | ON, OFF |
+| userexpression | No | string |
 

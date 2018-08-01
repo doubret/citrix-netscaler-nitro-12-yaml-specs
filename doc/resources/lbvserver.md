@@ -28,94 +28,94 @@ Identifier : name
 |----|----|----|
 | name | No | string |
 | state | No | ENABLED, DISABLED |
-| servicetype | No | HTTP, FTP, TCP, UDP, SSL, SSL_BRIDGE, SSL_TCP, DTLS, NNTP, DNS, DHCPRA, ANY, SIP_UDP, SIP_TCP, SIP_SSL, DNS_TCP, RTSP, PUSH, SSL_PUSH, RADIUS, RDP, MYSQL, MSSQL, DIAMETER, SSL_DIAMETER, TFTP, ORACLE, SMPP, SYSLOGTCP, SYSLOGUDP, FIX, SSL_FIX, USER_TCP, USER_SSL_TCP |
-| ipv46 | No | ip |
-| ippattern | No | ip |
-| ipmask | No | ip_mask |
-| port | No | int |
-| range | No | double |
-| persistencetype | No | SOURCEIP, COOKIEINSERT, SSLSESSION, RULE, URLPASSIVE, CUSTOMSERVERID, DESTIP, SRCIPDESTIP, CALLID, RTSPSID, DIAMETER, FIXSESSION, USERSESSION, NONE |
-| timeout | No | int |
-| persistencebackup | No | SOURCEIP, NONE |
-| backuppersistencetimeout | No | int |
-| lbmethod | No | ROUNDROBIN, LEASTCONNECTION, LEASTRESPONSETIME, URLHASH, DOMAINHASH, DESTINATIONIPHASH, SOURCEIPHASH, SRCIPDESTIPHASH, LEASTBANDWIDTH, LEASTPACKETS, TOKEN, SRCIPSRCPORTHASH, LRTM, CALLIDHASH, CUSTOMLOAD, LEASTREQUEST, AUDITLOGHASH, STATICPROXIMITY, USER_TOKEN |
-| hashlength | No | double |
-| netmask | No | ip_mask |
-| v6netmasklen | No | double |
+| appflowlog | No | ENABLED, DISABLED |
+| authentication | No | ON, OFF |
+| authenticationhost | No | string |
+| authn401 | No | ON, OFF |
+| authnprofile | No | string |
+| authnvsname | No | string |
 | backuplbmethod | No | ROUNDROBIN, LEASTCONNECTION, LEASTRESPONSETIME, SOURCEIPHASH, LEASTBANDWIDTH, LEASTPACKETS, CUSTOMLOAD |
-| cookiename | No | string |
-| rule | No | string |
-| listenpolicy | No | string |
-| listenpriority | No | double |
-| resrule | No | string |
-| persistmask | No | string |
-| v6persistmasklen | No | double |
-| pq | No | ON, OFF |
-| sc | No | ON, OFF |
-| rtspnat | No | ON, OFF |
-| m | No | IP, MAC, IPTUNNEL, TOS |
-| tosid | No | double |
-| datalength | No | double |
-| dataoffset | No | double |
-| sessionless | No | ENABLED, DISABLED |
-| trofspersistence | No | ENABLED, DISABLED |
-| connfailover | No | DISABLED, STATEFUL, STATELESS |
-| redirurl | No | string |
+| backuppersistencetimeout | No | int |
+| backupvserver | No | string |
+| bypassaaaa | No | YES, NO |
 | cacheable | No | YES, NO |
 | clttimeout | No | double |
+| comment | No | string |
+| connfailover | No | DISABLED, STATEFUL, STATELESS |
+| cookiename | No | string |
+| datalength | No | double |
+| dataoffset | No | double |
+| dbprofilename | No | nsdbprofile.name |
+| dbslb | No | ENABLED, DISABLED |
+| disableprimaryondown | No | ENABLED, DISABLED |
+| dns64 | No | ENABLED, DISABLED |
+| dnsprofilename | No | dnsprofile.dnsprofilename |
+| downstateflush | No | ENABLED, DISABLED |
+| hashlength | No | double |
+| healththreshold | No | double |
+| httpprofilename | No | nshttpprofile.name |
+| httpsredirecturl | No | string |
+| icmpvsrresponse | No | PASSIVE, ACTIVE |
+| insertvserveripport | No | OFF, VIPADDR, V6TOV4MAPPING |
+| ipmask | No | ip_mask |
+| ippattern | No | ip |
+| ipv46 | No | ip |
+| l2conn | No | ON, OFF |
+| lbmethod | No | ROUNDROBIN, LEASTCONNECTION, LEASTRESPONSETIME, URLHASH, DOMAINHASH, DESTINATIONIPHASH, SOURCEIPHASH, SRCIPDESTIPHASH, LEASTBANDWIDTH, LEASTPACKETS, TOKEN, SRCIPSRCPORTHASH, LRTM, CALLIDHASH, CUSTOMLOAD, LEASTREQUEST, AUDITLOGHASH, STATICPROXIMITY, USER_TOKEN |
+| lbprofilename | No | lbprofile.dnsprofilename |
+| listenpolicy | No | string |
+| listenpriority | No | double |
+| m | No | IP, MAC, IPTUNNEL, TOS |
+| macmoderetainvlan | No | ENABLED, DISABLED |
+| maxautoscalemembers | No | double |
+| minautoscalemembers | No | double |
+| mssqlserverversion | No | 70, 2000, 2000SP1, 2005, 2008, 2008R2, 2012, 2014 |
+| mysqlcharacterset | No | double |
+| mysqlprotocolversion | No | double |
+| mysqlservercapabilities | No | double |
+| mysqlserverversion | No | string |
+| netmask | No | ip_mask |
+| netprofile | No | netprofile.name |
+| newservicerequest | No | double |
+| newservicerequestincrementinterval | No | double |
+| newservicerequestunit | No | PER_SECOND, PERCENT |
+| oracleserverversion | No | 10G, 11G |
+| persistavpno | No | double[] |
+| persistencebackup | No | SOURCEIP, NONE |
+| persistencetype | No | SOURCEIP, COOKIEINSERT, SSLSESSION, RULE, URLPASSIVE, CUSTOMSERVERID, DESTIP, SRCIPDESTIP, CALLID, RTSPSID, DIAMETER, FIXSESSION, USERSESSION, NONE |
+| persistmask | No | string |
+| port | No | int |
+| pq | No | ON, OFF |
+| processlocal | No | ENABLED, DISABLED |
+| push | No | ENABLED, DISABLED |
+| pushlabel | No | string |
+| pushmulticlients | No | YES, NO |
+| pushvserver | No | string |
+| range | No | double |
+| recursionavailable | No | YES, NO |
+| redirectfromport | No | int |
+| redirectportrewrite | No | ENABLED, DISABLED |
+| redirurl | No | string |
+| resrule | No | string |
+| retainconnectionsoncluster | No | YES, NO |
+| rhistate | No | PASSIVE, ACTIVE |
+| rtspnat | No | ON, OFF |
+| rule | No | string |
+| sc | No | ON, OFF |
+| servicetype | No | HTTP, FTP, TCP, UDP, SSL, SSL_BRIDGE, SSL_TCP, DTLS, NNTP, DNS, DHCPRA, ANY, SIP_UDP, SIP_TCP, SIP_SSL, DNS_TCP, RTSP, PUSH, SSL_PUSH, RADIUS, RDP, MYSQL, MSSQL, DIAMETER, SSL_DIAMETER, TFTP, ORACLE, SMPP, SYSLOGTCP, SYSLOGUDP, FIX, SSL_FIX, USER_TCP, USER_SSL_TCP |
+| sessionless | No | ENABLED, DISABLED |
+| skippersistency | No | Bypass, ReLb, None |
+| sobackupaction | No | DROP, ACCEPT, REDIRECT |
 | somethod | No | CONNECTION, DYNAMICCONNECTION, BANDWIDTH, HEALTH, NONE |
 | sopersistence | No | ENABLED, DISABLED |
 | sopersistencetimeout | No | double |
-| healththreshold | No | double |
 | sothreshold | No | double |
-| sobackupaction | No | DROP, ACCEPT, REDIRECT |
-| redirectportrewrite | No | ENABLED, DISABLED |
-| downstateflush | No | ENABLED, DISABLED |
-| backupvserver | No | string |
-| disableprimaryondown | No | ENABLED, DISABLED |
-| insertvserveripport | No | OFF, VIPADDR, V6TOV4MAPPING |
-| vipheader | No | string |
-| authenticationhost | No | string |
-| authentication | No | ON, OFF |
-| authn401 | No | ON, OFF |
-| authnvsname | No | string |
-| push | No | ENABLED, DISABLED |
-| pushvserver | No | string |
-| pushlabel | No | string |
-| pushmulticlients | No | YES, NO |
 | tcpprofilename | No | nstcpprofile.name |
-| httpprofilename | No | nshttpprofile.name |
-| dbprofilename | No | nsdbprofile.name |
-| comment | No | string |
-| l2conn | No | ON, OFF |
-| oracleserverversion | No | 10G, 11G |
-| mssqlserverversion | No | 70, 2000, 2000SP1, 2005, 2008, 2008R2, 2012, 2014 |
-| mysqlprotocolversion | No | double |
-| mysqlserverversion | No | string |
-| mysqlcharacterset | No | double |
-| mysqlservercapabilities | No | double |
-| appflowlog | No | ENABLED, DISABLED |
-| netprofile | No | netprofile.name |
-| icmpvsrresponse | No | PASSIVE, ACTIVE |
-| rhistate | No | PASSIVE, ACTIVE |
-| newservicerequest | No | double |
-| newservicerequestunit | No | PER_SECOND, PERCENT |
-| newservicerequestincrementinterval | No | double |
-| minautoscalemembers | No | double |
-| maxautoscalemembers | No | double |
-| persistavpno | No | double[] |
-| skippersistency | No | Bypass, ReLb, None |
 | td | No | double |
-| authnprofile | No | string |
-| macmoderetainvlan | No | ENABLED, DISABLED |
-| dbslb | No | ENABLED, DISABLED |
-| dns64 | No | ENABLED, DISABLED |
-| bypassaaaa | No | YES, NO |
-| recursionavailable | No | YES, NO |
-| processlocal | No | ENABLED, DISABLED |
-| dnsprofilename | No | dnsprofile.dnsprofilename |
-| lbprofilename | No | lbprofile.dnsprofilename |
-| redirectfromport | No | int |
-| httpsredirecturl | No | string |
-| retainconnectionsoncluster | No | YES, NO |
+| timeout | No | int |
+| tosid | No | double |
+| trofspersistence | No | ENABLED, DISABLED |
+| v6netmasklen | No | double |
+| v6persistmasklen | No | double |
+| vipheader | No | string |
 

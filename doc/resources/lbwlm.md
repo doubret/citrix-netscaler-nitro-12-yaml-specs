@@ -28,7 +28,7 @@ Identifier : wlmname
 |----|----|----|
 | wlmname | No | string |
 | ipaddress | No | ip |
-| port | No | int |
-| lbuid | No | string |
 | katimeout | No | double |
+| lbuid | No | string |
+| port | No | int |
 

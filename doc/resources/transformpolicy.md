@@ -27,8 +27,8 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| rule | No | string |
-| profilename | No | transformprofile.name |
 | comment | No | string |
 | logaction | No | string |
+| profilename | No | transformprofile.name |
+| rule | No | string |
 

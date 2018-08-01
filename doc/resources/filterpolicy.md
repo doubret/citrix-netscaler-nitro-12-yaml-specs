@@ -27,7 +27,7 @@ Identifier : name
 | Name | Update | Type |
 |----|----|----|
 | name | No | string |
-| rule | No | string |
 | reqaction | No | filteraction.name |
 | resaction | No | filteraction.name |
+| rule | No | string |
 
