@@ -1,0 +1,34 @@
+# Resource transformpolicy
+
+- [Identifier](#identifier)
+- [Operations](#operations)
+- [Fields](#fields)
+
+## Identifier
+
+Identifier : name
+
+## Operations
+
+| Name | Method | Url |
+|----|----|----|
+| List | GET | `http://<netscaler-ip-address>/nitro/v1/config/transformpolicy` |
+| Get | GET | `http://<netscaler-ip-address>/nitro/v1/config/transformpolicy/<name>` |
+| Delete | DELETE | `http://<netscaler-ip-address>/nitro/v1/config/transformpolicy/<name>` |
+| Update | PUT | `http://<netscaler-ip-address>/nitro/v1/config/transformpolicy` |
+| Add | POST | `http://<netscaler-ip-address>/nitro/v1/config/transformpolicy` |
+| Enable | POST | `http://<netscaler-ip-address>/nitro/v1/config/transformpolicy?action=enable` |
+| Disable | POST | `http://<netscaler-ip-address>/nitro/v1/config/transformpolicy?action=disable` |
+| Rename | POST | `http://<netscaler-ip-address>/nitro/v1/config/transformpolicy?action=rename` |
+| Unset | POST | `http://<netscaler-ip-address>/nitro/v1/config/transformpolicy?action=unset` |
+
+## Fields
+
+| Name | Update | Type |
+|----|----|----|
+| name | No | string |
+| rule | No | string |
+| profilename | No | transformprofile.name |
+| comment | No | string |
+| logaction | No | string |
+

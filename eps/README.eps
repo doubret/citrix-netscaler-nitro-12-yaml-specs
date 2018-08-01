@@ -1,0 +1,15 @@
+# citrix-netscaler-nitro-yaml-specs
+
+Yaml specifications of the citrix netscaler nitro api
+
+## Resources
+
+<% foreach($resource in $resources.GetEnumerator()) { -%>
+- [<%= $resource.Name %>](resources/<%= $resource.Name %>.md)
+<% } -%>
+
+## Bindings
+
+<% foreach($binding in $bindings.GetEnumerator()) { -%>
+- [<%= $binding.Name %>](bindings/<%= $binding.Name %>.md)
+<% } -%>
