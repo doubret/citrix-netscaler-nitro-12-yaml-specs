@@ -2,18 +2,21 @@
 
 Yaml specifications of the Citrix Netscaler nitro api
 
-This project modelizes the Netscaler nitro configuration api using yaml files
-A resource is described through a key that uniquely identifies an instance, a list of fields, an optional state, and a list of updatable fields
-A binding is described through a source and target resources, plus optional fields that describe the binding
-At the difference of a resource, a binding can not be updated/renamed
+This project modelizes the Netscaler nitro configuration api using yaml files.
 
-You can find the documentation describing the format of the resource and binding yaml files here :
-- [Yaml file format for resources](doc/formats/resource.md)
-- [Yaml file format for bindings](doc/formats/binding.md)
+A resource is described through a key that uniquely identifies an instance, a list of fields, eventually a state, and a list of updatable fields.
+A binding is described through a source and target resources, plus optional fields that describe the binding.
+At the difference of a resource, a binding can not be updated/renamed.
 
 These specs are used to automate the creation of the following projects :
 - [Netscaler Nitro client written in go](https://github.com/doubret/citrix-netscaler-nitro-go-client)
 - [Terraform provider plugin for Netscaler](https://github.com/doubret/citrix-netscaler-nitro-go-client)
+
+# Documentations
+
+You can find the documentation describing the format of the resource and binding yaml files here :
+- [Yaml file format for resources](doc/formats/resource.md)
+- [Yaml file format for bindings](doc/formats/binding.md)
 
 ## List of resources supported
 
