@@ -1,6 +1,6 @@
 # Binding lbvserver_rewritepolicy_binding
 
-Spec for **lbvserver_rewritepolicy_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//lbvserver_rewritepolicy_binding/lbvserver_rewritepolicy_binding/)
+Spec for **lbvserver_rewritepolicy_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/load-balancing/lbvserver_rewritepolicy_binding/lbvserver_rewritepolicy_binding/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

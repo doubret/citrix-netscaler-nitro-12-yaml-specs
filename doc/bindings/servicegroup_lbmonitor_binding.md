@@ -1,6 +1,6 @@
 # Binding servicegroup_lbmonitor_binding
 
-Spec for **servicegroup_lbmonitor_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//servicegroup_lbmonitor_binding/servicegroup_lbmonitor_binding/)
+Spec for **servicegroup_lbmonitor_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/basic/servicegroup_lbmonitor_binding/servicegroup_lbmonitor_binding/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

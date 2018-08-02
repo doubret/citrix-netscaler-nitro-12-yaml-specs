@@ -1,6 +1,6 @@
 # Binding appflowpolicylabel_appflowpolicy_binding
 
-Spec for **appflowpolicylabel_appflowpolicy_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//appflowpolicylabel_appflowpolicy_binding/appflowpolicylabel_appflowpolicy_binding/)
+Spec for **appflowpolicylabel_appflowpolicy_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/appflow/appflowpolicylabel_appflowpolicy_binding/appflowpolicylabel_appflowpolicy_binding/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

@@ -1,6 +1,6 @@
 # Binding lbvserver_service_binding
 
-Spec for **lbvserver_service_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//lbvserver_service_binding/lbvserver_service_binding/)
+Spec for **lbvserver_service_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/load-balancing/lbvserver_service_binding/lbvserver_service_binding/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

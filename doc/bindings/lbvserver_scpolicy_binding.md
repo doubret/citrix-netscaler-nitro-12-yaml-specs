@@ -1,6 +1,6 @@
 # Binding lbvserver_scpolicy_binding
 
-Spec for **lbvserver_scpolicy_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//lbvserver_scpolicy_binding/lbvserver_scpolicy_binding/)
+Spec for **lbvserver_scpolicy_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/load-balancing/lbvserver_scpolicy_binding/lbvserver_scpolicy_binding/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

@@ -1,6 +1,6 @@
 # Binding policydataset_value_binding
 
-Spec for **policydataset_value_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//policydataset_value_binding/policydataset_value_binding/)
+Spec for **policydataset_value_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/policy/policydataset_value_binding/policydataset_value_binding/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

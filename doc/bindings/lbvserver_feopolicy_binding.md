@@ -1,6 +1,6 @@
 # Binding lbvserver_feopolicy_binding
 
-Spec for **lbvserver_feopolicy_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//lbvserver_feopolicy_binding/lbvserver_feopolicy_binding/)
+Spec for **lbvserver_feopolicy_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/load-balancing/lbvserver_feopolicy_binding/lbvserver_feopolicy_binding/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

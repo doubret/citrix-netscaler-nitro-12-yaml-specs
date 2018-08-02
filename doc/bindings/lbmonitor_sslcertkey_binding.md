@@ -1,6 +1,6 @@
 # Binding lbmonitor_sslcertkey_binding
 
-Spec for **lbmonitor_sslcertkey_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//lbmonitor_sslcertkey_binding/lbmonitor_sslcertkey_binding/)
+Spec for **lbmonitor_sslcertkey_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/load-balancing/lbmonitor_sslcertkey_binding/lbmonitor_sslcertkey_binding/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

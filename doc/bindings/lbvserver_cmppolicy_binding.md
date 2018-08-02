@@ -1,6 +1,6 @@
 # Binding lbvserver_cmppolicy_binding
 
-Spec for **lbvserver_cmppolicy_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//lbvserver_cmppolicy_binding/lbvserver_cmppolicy_binding/)
+Spec for **lbvserver_cmppolicy_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/load-balancing/lbvserver_cmppolicy_binding/lbvserver_cmppolicy_binding/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

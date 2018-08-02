@@ -1,6 +1,6 @@
 # Binding lbvserver_authorizationpolicy_binding
 
-Spec for **lbvserver_authorizationpolicy_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//lbvserver_authorizationpolicy_binding/lbvserver_authorizationpolicy_binding/)
+Spec for **lbvserver_authorizationpolicy_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/load-balancing/lbvserver_authorizationpolicy_binding/lbvserver_authorizationpolicy_binding/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

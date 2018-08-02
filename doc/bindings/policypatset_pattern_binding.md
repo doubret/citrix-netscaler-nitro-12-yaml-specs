@@ -1,6 +1,6 @@
 # Binding policypatset_pattern_binding
 
-Spec for **policypatset_pattern_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//policypatset_pattern_binding/policypatset_pattern_binding/)
+Spec for **policypatset_pattern_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/policy/policypatset_pattern_binding/policypatset_pattern_binding/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)
