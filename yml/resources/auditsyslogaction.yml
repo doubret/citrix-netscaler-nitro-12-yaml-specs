@@ -41,7 +41,6 @@ update:
   - subscriberlog
   - sslinterception
   - lbvservername
-  - appflowexport
   - tcpprofilename
   - maxlogdatasizetohold
   - dns
