@@ -30,6 +30,8 @@ foreach($resource in Get-ChildItem $ymlResources -File) {
   $yaml = Get-Content -Raw $resource.FullName | ConvertFrom-Yaml -Ordered
   $name = $resource.Name -Replace '\.yml'
 
+  Write-Host $name
+
   $resources[$name] = $yaml
 
   Invoke-EpsTemplate -Path "$eps\resource.eps" -Binding @{ name = $name; resource = $yaml } | Set-Content "$mdResources\$name.md"
@@ -38,6 +40,8 @@ foreach($resource in Get-ChildItem $ymlResources -File) {
 foreach($binding in Get-ChildItem $ymlBindings -File) {
   $yaml = Get-Content -Raw $binding.FullName | ConvertFrom-Yaml -Ordered
   $name = $binding.Name -Replace '\.yml'
+
+  Write-Host $name
 
   $bindings[$name] = $yaml
 

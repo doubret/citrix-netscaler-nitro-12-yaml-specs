@@ -1,6 +1,6 @@
 fields:
   labelname:                              appflowpolicylabel.labelname
-  policyname:                             appflowpolicy.policyname
+  policyname:                             appflowpolicy.name
   priority:                               double
   gotopriorityexpression:                 string
   invoke:                                 bool

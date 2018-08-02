@@ -29,6 +29,6 @@
 | labelname | string |
 | labeltype | reqvserver, resvserver, policylabel |
 | name | lbvserver.name |
-| policyname | cachepolicy.name |
+| policyname | cachepolicy.policyname |
 | priority | double |
 

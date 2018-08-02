@@ -27,6 +27,6 @@
 | invoke_labelname | string |
 | labelname | appflowpolicylabel.labelname |
 | labeltype | vserver, policylabel |
-| policyname | appflowpolicy.policyname |
+| policyname | appflowpolicy.name |
 | priority | double |
 

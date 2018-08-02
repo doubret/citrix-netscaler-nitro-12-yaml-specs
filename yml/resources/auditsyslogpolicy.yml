@@ -1,0 +1,8 @@
+key:
+  name:                                   name
+fields:
+  rule:                                   string
+  action:                                 auditsyslogaction.name
+update:
+  - rule
+  - action

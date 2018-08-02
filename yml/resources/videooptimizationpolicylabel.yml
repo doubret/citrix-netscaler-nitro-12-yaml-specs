@@ -1,0 +1,6 @@
+key:
+  name:                                   labelname
+fields:
+  policylabeltype:                        (videoopt_req|videoopt_res)
+  comment:                                string
+      

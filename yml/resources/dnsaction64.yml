@@ -1,0 +1,10 @@
+key:
+  name:                                   actionname
+fields:
+  prefix:                                 string
+  mappedrule:                             string
+  excluderule:                            string
+update:
+  - prefix
+  - mappedrule
+  - excluderule

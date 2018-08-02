@@ -26,7 +26,7 @@
 | invoke | bool |
 | labelname | appflowpolicylabel.labelname |
 | labeltype | vserver, policylabel |
-| policyname | appflowpolicy.policyname |
+| policyname | appflowpolicy.name |
 | priority | double |
 | type | REQ_OVERRIDE, REQ_DEFAULT, OVERRIDE, DEFAULT, OTHERTCP_REQ_OVERRIDE, OTHERTCP_REQ_DEFAULT, MSSQL_REQ_OVERRIDE, MSSQL_REQ_DEFAULT, MYSQL_REQ_OVERRIDE, MYSQL_REQ_DEFAULT, ICA_REQ_OVERRIDE, ICA_REQ_DEFAULT, ORACLE_REQ_OVERRIDE, ORACLE_REQ_DEFAULT |
 
