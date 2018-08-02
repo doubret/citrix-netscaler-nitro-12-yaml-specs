@@ -1,5 +1,9 @@
 # Resource tmtrafficaction
 
+Spec for tmtrafficaction resource
+
+Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/traffic-management/tmtrafficaction/tmtrafficaction/
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

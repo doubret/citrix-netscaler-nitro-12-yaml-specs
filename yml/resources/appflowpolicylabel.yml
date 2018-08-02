@@ -1,4 +1,5 @@
+scope:                                    appflow
 key:
-  name:                     labelname
+  name:                                   labelname
 fields:
-  policylabeltype:          (HTTP|OTHERTCP)
+  policylabeltype:                        (HTTP|OTHERTCP)

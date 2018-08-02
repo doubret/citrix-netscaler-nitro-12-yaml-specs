@@ -1,9 +1,10 @@
+scope:                                    filter
 key:
-  name:                     name
+  name:                                   name
 fields:
-  rule:                     string
-  reqaction:                filteraction.name
-  resaction:                filteraction.name
+  rule:                                   string
+  reqaction:                              filteraction.name
+  resaction:                              filteraction.name
 update:
   - rule
   - reqaction

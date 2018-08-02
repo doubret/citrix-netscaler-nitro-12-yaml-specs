@@ -1,12 +1,13 @@
+scope:                                    integrated-caching
 key:
-  name:                     policyname
+  name:                                   policyname
 fields:
-  rule:                     string
-  storeingroup:             cachecontentgroup.name
-  invalgroups:              cachecontentgroup.name[]
-  invalobjects:             cachecontentgroup.name[]
-  action:                   (CACHE|NOCACHE|MAY_CACHE|MAY_NOCACHE|INVAL)
-  undefaction:              (NOCACHE|RESET)
+  rule:                                   string
+  storeingroup:                           cachecontentgroup.name
+  invalgroups:                            cachecontentgroup.name[]
+  invalobjects:                           cachecontentgroup.name[]
+  action:                                 (CACHE|NOCACHE|MAY_CACHE|MAY_NOCACHE|INVAL)
+  undefaction:                            (NOCACHE|RESET)
 update:
   - rule
   - action

@@ -1,3 +1,4 @@
+scope:                                    priority-queuing
 key:
   name:                                   policyname
 fields:

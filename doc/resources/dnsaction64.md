@@ -1,5 +1,9 @@
 # Resource dnsaction64
 
+Spec for dnsaction64 resource
+
+Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/domain-name-service/dnsaction64/dnsaction64/
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

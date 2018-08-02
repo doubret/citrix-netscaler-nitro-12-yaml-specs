@@ -1,5 +1,9 @@
 # Resource dbdbprofile
 
+Spec for dbdbprofile resource
+
+Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/db/dbdbprofile/dbdbprofile/
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

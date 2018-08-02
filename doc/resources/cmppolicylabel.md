@@ -1,5 +1,9 @@
 # Resource cmppolicylabel
 
+Spec for cmppolicylabel resource
+
+Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/compression/cmppolicylabel/cmppolicylabel/
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

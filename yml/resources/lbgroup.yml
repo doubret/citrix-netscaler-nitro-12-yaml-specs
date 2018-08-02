@@ -1,3 +1,4 @@
+scope:                                    load-balancing
 key:
   name:                                   name
 fields:

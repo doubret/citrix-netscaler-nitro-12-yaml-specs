@@ -1,5 +1,9 @@
 # Resource policystringmap
 
+Spec for policystringmap resource
+
+Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/policy/policystringmap/policystringmap/
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

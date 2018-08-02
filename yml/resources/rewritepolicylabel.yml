@@ -1,3 +1,4 @@
+scope:                                    rewrite
 key:
   name:                                   labelname
 fields:

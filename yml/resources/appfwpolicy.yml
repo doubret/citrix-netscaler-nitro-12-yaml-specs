@@ -1,3 +1,4 @@
+scope:                                    application-firewall
 key:
   name:                                   name
 fields:

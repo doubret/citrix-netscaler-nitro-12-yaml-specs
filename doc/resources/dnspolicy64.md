@@ -1,5 +1,9 @@
 # Resource dnspolicy64
 
+Spec for dnspolicy64 resource
+
+Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/domain-name-service/dnspolicy64/dnspolicy64/
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

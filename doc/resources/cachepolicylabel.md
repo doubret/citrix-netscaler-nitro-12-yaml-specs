@@ -1,5 +1,9 @@
 # Resource cachepolicylabel
 
+Spec for cachepolicylabel resource
+
+Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/integrated-caching/cachepolicylabel/cachepolicylabel/
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

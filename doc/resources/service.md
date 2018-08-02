@@ -1,5 +1,9 @@
 # Resource service
 
+Spec for service resource
+
+Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/basic/service/service/
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

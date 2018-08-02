@@ -1,5 +1,9 @@
 # Resource policyexpression
 
+Spec for policyexpression resource
+
+Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/policy/policyexpression/policyexpression/
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

@@ -1,3 +1,4 @@
+scope:                                    audit
 key:
   name:                                   name
 fields:

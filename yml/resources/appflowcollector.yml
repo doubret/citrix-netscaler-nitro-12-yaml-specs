@@ -1,10 +1,11 @@
+scope:                                    appflow
 key:
-  name:                     name
+  name:                                   name
 fields:
-  ipaddress:                ip
-  port:                     int
-  transport:                (ipfix|logstream)
-  netprofile:               netprofile.name
+  ipaddress:                              ip
+  port:                                   int
+  transport:                              (ipfix|logstream)
+  netprofile:                             netprofile.name
 update:
   - ipaddress
   - port

@@ -1,5 +1,9 @@
 # Resource policydataset
 
+Spec for policydataset resource
+
+Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/policy/policydataset/policydataset/
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

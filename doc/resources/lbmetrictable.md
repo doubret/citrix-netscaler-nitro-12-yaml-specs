@@ -1,5 +1,9 @@
 # Resource lbmetrictable
 
+Spec for lbmetrictable resource
+
+Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/load-balancing/lbmetrictable/lbmetrictable/
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

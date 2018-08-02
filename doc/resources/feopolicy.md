@@ -1,5 +1,9 @@
 # Resource feopolicy
 
+Spec for feopolicy resource
+
+Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/front-end-optimization/feopolicy/feopolicy/
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

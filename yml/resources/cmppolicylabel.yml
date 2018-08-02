@@ -1,4 +1,5 @@
+scope:                                    compression
 key:
-  name:                     labelname
+  name:                                   labelname
 fields:
-  type:                     (REQ|RES)
+  type:                                   (REQ|RES)

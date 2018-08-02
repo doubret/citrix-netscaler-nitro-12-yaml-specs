@@ -1,5 +1,9 @@
 # Resource cmppolicy
 
+Spec for cmppolicy resource
+
+Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/compression/cmppolicy/cmppolicy/
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)
