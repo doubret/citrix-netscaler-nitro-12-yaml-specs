@@ -12,13 +12,13 @@ These specs are used to automate the creation of the following projects :
 - [Netscaler Nitro client written in go](https://github.com/doubret/citrix-netscaler-nitro-go-client)
 - [Terraform provider plugin for Netscaler](https://github.com/doubret/citrix-netscaler-nitro-go-client)
 
-# Documentations
+## Documentations
 
 You can find the documentation describing the format of the resource and binding yaml files here :
 - [Yaml file format for resources](doc/formats/resource.md)
 - [Yaml file format for bindings](doc/formats/binding.md)
 
-## List of resources supported
+### List of resources supported
 
 - [appflowaction](doc/resources/appflowaction.md)
 - [appflowcollector](doc/resources/appflowcollector.md)
@@ -91,7 +91,7 @@ You can find the documentation describing the format of the resource and binding
 - [videooptimizationpolicy](doc/resources/videooptimizationpolicy.md)
 - [videooptimizationpolicylabel](doc/resources/videooptimizationpolicylabel.md)
 
-## List of bindings supported
+### List of bindings supported
 
 - [appflowglobal_appflowpolicy_binding](doc/bindings/appflowglobal_appflowpolicy_binding.md)
 - [appflowpolicylabel_appflowpolicy_binding](doc/bindings/appflowpolicylabel_appflowpolicy_binding.md)
