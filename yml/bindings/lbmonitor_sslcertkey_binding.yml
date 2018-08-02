@@ -1,3 +1,4 @@
+scope:                                    load-balancing
 fields:
   monitorname:                            lbmonitor.monitorname
   certkeyname:                            string

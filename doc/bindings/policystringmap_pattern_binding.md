@@ -1,5 +1,7 @@
 # Binding policystringmap_pattern_binding
 
+Spec for **policystringmap_pattern_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//policystringmap_pattern_binding/policystringmap_pattern_binding/)
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

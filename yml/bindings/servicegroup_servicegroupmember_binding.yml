@@ -1,3 +1,4 @@
+scope:                                    basic
 fields:
   servicegroupname:                       string
   servername:                             string

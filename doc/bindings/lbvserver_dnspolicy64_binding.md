@@ -1,5 +1,7 @@
 # Binding lbvserver_dnspolicy64_binding
 
+Spec for **lbvserver_dnspolicy64_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//lbvserver_dnspolicy64_binding/lbvserver_dnspolicy64_binding/)
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

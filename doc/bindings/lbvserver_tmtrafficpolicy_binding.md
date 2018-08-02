@@ -1,5 +1,7 @@
 # Binding lbvserver_tmtrafficpolicy_binding
 
+Spec for **lbvserver_tmtrafficpolicy_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//lbvserver_tmtrafficpolicy_binding/lbvserver_tmtrafficpolicy_binding/)
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

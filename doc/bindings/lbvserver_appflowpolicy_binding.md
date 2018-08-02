@@ -1,5 +1,7 @@
 # Binding lbvserver_appflowpolicy_binding
 
+Spec for **lbvserver_appflowpolicy_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//lbvserver_appflowpolicy_binding/lbvserver_appflowpolicy_binding/)
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

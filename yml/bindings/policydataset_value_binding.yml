@@ -1,3 +1,4 @@
+scope:                                    policy
 fields:
   name:                                   policydataset.name
   value:                                  string

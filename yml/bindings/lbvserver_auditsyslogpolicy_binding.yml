@@ -1,3 +1,4 @@
+scope:                                    load-balancing
 fields:
   name:                                   lbvserver.name
   policyname:                             auditsyslogpolicy.name

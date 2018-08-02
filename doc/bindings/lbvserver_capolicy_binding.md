@@ -1,5 +1,7 @@
 # Binding lbvserver_capolicy_binding
 
+Spec for **lbvserver_capolicy_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//lbvserver_capolicy_binding/lbvserver_capolicy_binding/)
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

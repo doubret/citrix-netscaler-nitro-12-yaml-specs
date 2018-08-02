@@ -1,5 +1,7 @@
 # Binding lbvserver_appqoepolicy_binding
 
+Spec for **lbvserver_appqoepolicy_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//lbvserver_appqoepolicy_binding/lbvserver_appqoepolicy_binding/)
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

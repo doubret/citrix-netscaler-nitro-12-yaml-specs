@@ -1,3 +1,4 @@
+scope:                                    authorization
 fields:
   labelname:                              authorizationpolicylabel.labelname
   policyname:                             authorizationpolicy.name

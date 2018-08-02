@@ -1,5 +1,7 @@
 # Binding service_scpolicy_binding
 
+Spec for **service_scpolicy_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//service_scpolicy_binding/service_scpolicy_binding/)
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

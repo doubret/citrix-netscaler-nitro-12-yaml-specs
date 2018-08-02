@@ -1,5 +1,7 @@
 # Binding lbmetrictable_metric_binding
 
+Spec for **lbmetrictable_metric_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//lbmetrictable_metric_binding/lbmetrictable_metric_binding/)
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

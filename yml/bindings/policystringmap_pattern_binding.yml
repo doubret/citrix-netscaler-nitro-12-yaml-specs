@@ -1,3 +1,4 @@
+scope:                                    policy
 fields:
   name:                                   policystringmap.name
   key:                                    string

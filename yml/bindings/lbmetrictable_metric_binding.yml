@@ -1,3 +1,4 @@
+scope:                                    load-balancing
 fields:
   metrictable:                            lbmetrictable.metrictable
   metric:                                 string

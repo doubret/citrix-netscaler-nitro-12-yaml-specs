@@ -1,5 +1,7 @@
 # Binding lbvserver_auditsyslogpolicy_binding
 
+Spec for **lbvserver_auditsyslogpolicy_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//lbvserver_auditsyslogpolicy_binding/lbvserver_auditsyslogpolicy_binding/)
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

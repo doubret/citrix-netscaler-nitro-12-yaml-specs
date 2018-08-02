@@ -1,3 +1,4 @@
+scope:                                    basic
 fields:
   name:                                   service.name
   policyname:                             dospolicy.name

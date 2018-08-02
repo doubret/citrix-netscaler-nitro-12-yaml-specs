@@ -1,5 +1,7 @@
 # Binding lbvserver_transformpolicy_binding
 
+Spec for **lbvserver_transformpolicy_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//lbvserver_transformpolicy_binding/lbvserver_transformpolicy_binding/)
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

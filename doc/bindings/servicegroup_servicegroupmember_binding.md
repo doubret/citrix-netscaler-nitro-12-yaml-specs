@@ -1,5 +1,7 @@
 # Binding servicegroup_servicegroupmember_binding
 
+Spec for **servicegroup_servicegroupmember_binding** binding - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration//servicegroup_servicegroupmember_binding/servicegroup_servicegroupmember_binding/)
+
 - [Identifier](#identifier)
 - [Operations](#operations)
 - [Fields](#fields)

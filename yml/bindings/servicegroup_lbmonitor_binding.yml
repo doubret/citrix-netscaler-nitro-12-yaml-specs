@@ -1,3 +1,4 @@
+scope:                                    basic
 fields:
   servicegroupname:                       servicegroup.servicegroupname
   monitor_name:                           lbmonitor.monitorname
