@@ -2,7 +2,7 @@
 
 Spec for auditnslogaction resource
 
-Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/audit/auditnslogaction/auditnslogaction/
+[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/audit/auditnslogaction/auditnslogaction/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

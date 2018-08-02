@@ -2,7 +2,7 @@
 
 Spec for lbgroup resource
 
-Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/load-balancing/lbgroup/lbgroup/
+[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/load-balancing/lbgroup/lbgroup/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

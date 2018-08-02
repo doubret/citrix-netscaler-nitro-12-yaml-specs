@@ -2,7 +2,7 @@
 
 Spec for videooptimizationaction resource
 
-Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/videooptimization/videooptimizationaction/videooptimizationaction/
+[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/videooptimization/videooptimizationaction/videooptimizationaction/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

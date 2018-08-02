@@ -2,7 +2,7 @@
 
 Spec for cmpaction resource
 
-Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/compression/cmpaction/cmpaction/
+[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/compression/cmpaction/cmpaction/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

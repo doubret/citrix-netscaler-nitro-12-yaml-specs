@@ -2,7 +2,7 @@
 
 Spec for rewriteaction resource
 
-Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/rewrite/rewriteaction/rewriteaction/
+[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/rewrite/rewriteaction/rewriteaction/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

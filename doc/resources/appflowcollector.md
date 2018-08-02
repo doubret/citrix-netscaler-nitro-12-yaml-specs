@@ -2,7 +2,7 @@
 
 Spec for appflowcollector resource
 
-Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/appflow/appflowcollector/appflowcollector/
+[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/appflow/appflowcollector/appflowcollector/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

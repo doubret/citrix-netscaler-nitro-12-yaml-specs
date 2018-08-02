@@ -2,7 +2,7 @@
 
 Spec for cspolicylabel resource
 
-Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/content-switching/cspolicylabel/cspolicylabel/
+[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/content-switching/cspolicylabel/cspolicylabel/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

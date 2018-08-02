@@ -2,7 +2,7 @@
 
 Spec for filteraction resource
 
-Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/filter/filteraction/filteraction/
+[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/filter/filteraction/filteraction/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

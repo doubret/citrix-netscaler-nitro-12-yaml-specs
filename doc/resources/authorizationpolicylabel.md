@@ -2,7 +2,7 @@
 
 Spec for authorizationpolicylabel resource
 
-Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/authorization/authorizationpolicylabel/authorizationpolicylabel/
+[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/authorization/authorizationpolicylabel/authorizationpolicylabel/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

@@ -2,7 +2,7 @@
 
 Spec for capolicy resource
 
-Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/ca/capolicy/capolicy/
+[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/ca/capolicy/capolicy/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

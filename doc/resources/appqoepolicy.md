@@ -2,7 +2,7 @@
 
 Spec for appqoepolicy resource
 
-Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/appqoe/appqoepolicy/appqoepolicy/
+[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/appqoe/appqoepolicy/appqoepolicy/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

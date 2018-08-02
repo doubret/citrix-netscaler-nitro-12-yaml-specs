@@ -2,7 +2,7 @@
 
 Spec for videooptimizationpolicylabel resource
 
-Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/videooptimization/videooptimizationpolicylabel/videooptimizationpolicylabel/
+[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/videooptimization/videooptimizationpolicylabel/videooptimizationpolicylabel/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

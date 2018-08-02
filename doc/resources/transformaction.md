@@ -2,7 +2,7 @@
 
 Spec for transformaction resource
 
-Official citrix documentation page : https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/transform/transformaction/transformaction/
+[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/transform/transformaction/transformaction/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)
