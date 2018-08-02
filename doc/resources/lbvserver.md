@@ -45,7 +45,7 @@ Identifier : name
 | cookiename | No | string |
 | datalength | No | double |
 | dataoffset | No | double |
-| dbprofilename | No | nsdbprofile.name |
+| dbprofilename | No | dbdbprofile.name |
 | dbslb | No | ENABLED, DISABLED |
 | disableprimaryondown | No | ENABLED, DISABLED |
 | dns64 | No | ENABLED, DISABLED |
@@ -62,7 +62,7 @@ Identifier : name
 | ipv46 | No | ip |
 | l2conn | No | ON, OFF |
 | lbmethod | No | ROUNDROBIN, LEASTCONNECTION, LEASTRESPONSETIME, URLHASH, DOMAINHASH, DESTINATIONIPHASH, SOURCEIPHASH, SRCIPDESTIPHASH, LEASTBANDWIDTH, LEASTPACKETS, TOKEN, SRCIPSRCPORTHASH, LRTM, CALLIDHASH, CUSTOMLOAD, LEASTREQUEST, AUDITLOGHASH, STATICPROXIMITY, USER_TOKEN |
-| lbprofilename | No | lbprofile.dnsprofilename |
+| lbprofilename | No | lbprofile.lbprofilename |
 | listenpolicy | No | string |
 | listenpriority | No | double |
 | m | No | IP, MAC, IPTUNNEL, TOS |

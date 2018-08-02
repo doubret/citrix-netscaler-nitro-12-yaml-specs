@@ -19,6 +19,7 @@ Yaml specifications of the citrix netscaler nitro api
 - [csaction](doc/resources/csaction.md)
 - [cspolicy](doc/resources/cspolicy.md)
 - [cspolicylabel](doc/resources/cspolicylabel.md)
+- [dbdbprofile](doc/resources/dbdbprofile.md)
 - [dnsprofile](doc/resources/dnsprofile.md)
 - [dospolicy](doc/resources/dospolicy.md)
 - [feoaction](doc/resources/feoaction.md)
