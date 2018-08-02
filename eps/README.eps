@@ -12,19 +12,19 @@ These specs are used to automate the creation of the following projects :
 - [Netscaler Nitro client written in go](https://github.com/doubret/citrix-netscaler-nitro-go-client)
 - [Terraform provider plugin for Netscaler](https://github.com/doubret/citrix-netscaler-nitro-go-client)
 
-# Documentations
+## Documentations
 
 You can find the documentation describing the format of the resource and binding yaml files here :
 - [Yaml file format for resources](doc/formats/resource.md)
 - [Yaml file format for bindings](doc/formats/binding.md)
 
-## List of resources supported
+### List of resources supported
 
 <% foreach($resource in $resources.GetEnumerator() | Sort -Property Name) { -%>
 - [<%= $resource.Name %>](doc/resources/<%= $resource.Name %>.md)
 <% } -%>
 
-## List of bindings supported
+### List of bindings supported
 
 <% foreach($binding in $bindings.GetEnumerator() | Sort -Property Name) { -%>
 - [<%= $binding.Name %>](doc/bindings/<%= $binding.Name %>.md)
