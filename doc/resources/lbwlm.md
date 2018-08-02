@@ -1,6 +1,6 @@
 # Resource lbwlm
 
-Spec for **lbwlm** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/load-balancing/lbwlm/lbwlm/)
+Spec for **lbwlm** resource - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/load-balancing/lbwlm/lbwlm/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

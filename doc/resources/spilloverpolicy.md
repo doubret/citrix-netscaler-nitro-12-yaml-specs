@@ -1,6 +1,6 @@
 # Resource spilloverpolicy
 
-Spec for **spilloverpolicy** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/spillover/spilloverpolicy/spilloverpolicy/)
+Spec for **spilloverpolicy** resource - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/spillover/spilloverpolicy/spilloverpolicy/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

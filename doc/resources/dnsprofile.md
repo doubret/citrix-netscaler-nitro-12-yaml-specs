@@ -1,6 +1,6 @@
 # Resource dnsprofile
 
-Spec for **dnsprofile** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/domain-name-service/dnsprofile/dnsprofile/)
+Spec for **dnsprofile** resource - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/domain-name-service/dnsprofile/dnsprofile/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

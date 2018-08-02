@@ -1,6 +1,6 @@
 # Resource filterpolicy
 
-Spec for **filterpolicy** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/filter/filterpolicy/filterpolicy/)
+Spec for **filterpolicy** resource - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/filter/filterpolicy/filterpolicy/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

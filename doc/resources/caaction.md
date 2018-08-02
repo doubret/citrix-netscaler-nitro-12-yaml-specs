@@ -1,6 +1,6 @@
 # Resource caaction
 
-Spec for **caaction** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/ca/caaction/caaction/)
+Spec for **caaction** resource - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/ca/caaction/caaction/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

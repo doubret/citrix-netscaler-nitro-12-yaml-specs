@@ -1,6 +1,6 @@
 # Resource responderaction
 
-Spec for **responderaction** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/responder/responderaction/responderaction/)
+Spec for **responderaction** resource - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/responder/responderaction/responderaction/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

@@ -1,6 +1,6 @@
 # Resource auditnslogpolicy
 
-Spec for **auditnslogpolicy** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/audit/auditnslogpolicy/auditnslogpolicy/)
+Spec for **auditnslogpolicy** resource - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/audit/auditnslogpolicy/auditnslogpolicy/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

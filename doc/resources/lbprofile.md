@@ -1,6 +1,6 @@
 # Resource lbprofile
 
-Spec for **lbprofile** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/load-balancing/lbprofile/lbprofile/)
+Spec for **lbprofile** resource - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/load-balancing/lbprofile/lbprofile/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

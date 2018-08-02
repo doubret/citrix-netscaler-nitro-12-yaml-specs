@@ -1,6 +1,6 @@
 # Resource appflowpolicylabel
 
-Spec for **appflowpolicylabel** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/appflow/appflowpolicylabel/appflowpolicylabel/)
+Spec for **appflowpolicylabel** resource - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/appflow/appflowpolicylabel/appflowpolicylabel/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

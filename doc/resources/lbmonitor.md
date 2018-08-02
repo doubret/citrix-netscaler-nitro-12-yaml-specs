@@ -1,6 +1,6 @@
 # Resource lbmonitor
 
-Spec for **lbmonitor** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/load-balancing/lbmonitor/lbmonitor/)
+Spec for **lbmonitor** resource - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/load-balancing/lbmonitor/lbmonitor/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

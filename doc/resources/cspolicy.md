@@ -1,6 +1,6 @@
 # Resource cspolicy
 
-Spec for **cspolicy** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/content-switching/cspolicy/cspolicy/)
+Spec for **cspolicy** resource - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/content-switching/cspolicy/cspolicy/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

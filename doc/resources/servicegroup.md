@@ -1,6 +1,6 @@
 # Resource servicegroup
 
-Spec for **servicegroup** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/basic/servicegroup/servicegroup/)
+Spec for **servicegroup** resource - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/basic/servicegroup/servicegroup/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

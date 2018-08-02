@@ -1,6 +1,6 @@
 # Resource transformpolicy
 
-Spec for **transformpolicy** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/transform/transformpolicy/transformpolicy/)
+Spec for **transformpolicy** resource - [citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/transform/transformpolicy/transformpolicy/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)
