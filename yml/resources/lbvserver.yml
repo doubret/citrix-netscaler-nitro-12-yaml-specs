@@ -59,7 +59,7 @@ fields:
   pushmulticlients:                       (YES|NO)
   tcpprofilename:                         nstcpprofile.name
   httpprofilename:                        nshttpprofile.name
-  dbprofilename:                          nsdbprofile.name
+  dbprofilename:                          dbdbprofile.name
   comment:                                string
   l2conn:                                 (ON|OFF)
   oracleserverversion:                    (10G|11G)
@@ -88,7 +88,7 @@ fields:
   recursionavailable:                     (YES|NO)
   processlocal:                           (ENABLED|DISABLED)
   dnsprofilename:                         dnsprofile.dnsprofilename
-  lbprofilename:                          lbprofile.dnsprofilename
+  lbprofilename:                          lbprofile.lbprofilename
   redirectfromport:                       int
   httpsredirecturl:                       string
   retainconnectionsoncluster:             (YES|NO)

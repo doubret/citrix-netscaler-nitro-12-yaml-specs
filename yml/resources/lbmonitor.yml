@@ -160,7 +160,7 @@ update:
   - oraclesid
   - sqlquery
   - evalrule
-  - Snmpoid
+  - snmpoid
   - snmpcommunity
   - snmpthreshold
   - snmpversion
