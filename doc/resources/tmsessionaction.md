@@ -1,8 +1,6 @@
 # Resource tmsessionaction
 
-Spec for tmsessionaction resource
-
-[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/traffic-management/tmsessionaction/tmsessionaction/)
+Spec for **tmsessionaction** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/traffic-management/tmsessionaction/tmsessionaction/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

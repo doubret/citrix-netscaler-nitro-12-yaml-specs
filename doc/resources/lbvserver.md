@@ -1,8 +1,6 @@
 # Resource lbvserver
 
-Spec for lbvserver resource
-
-[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/load-balancing/lbvserver/lbvserver/)
+Spec for **lbvserver** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/load-balancing/lbvserver/lbvserver/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

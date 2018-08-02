@@ -1,8 +1,6 @@
 # Resource pqpolicy
 
-Spec for pqpolicy resource
-
-[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/priority-queuing/pqpolicy/pqpolicy/)
+Spec for **pqpolicy** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/priority-queuing/pqpolicy/pqpolicy/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

@@ -1,8 +1,6 @@
 # Resource transformprofile
 
-Spec for transformprofile resource
-
-[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/transform/transformprofile/transformprofile/)
+Spec for **transformprofile** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/transform/transformprofile/transformprofile/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

@@ -1,8 +1,6 @@
 # Resource rewritepolicylabel
 
-Spec for rewritepolicylabel resource
-
-[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/rewrite/rewritepolicylabel/rewritepolicylabel/)
+Spec for **rewritepolicylabel** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/rewrite/rewritepolicylabel/rewritepolicylabel/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

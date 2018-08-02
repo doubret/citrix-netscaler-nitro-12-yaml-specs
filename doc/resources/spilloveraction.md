@@ -1,8 +1,6 @@
 # Resource spilloveraction
 
-Spec for spilloveraction resource
-
-[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/spillover/spilloveraction/spilloveraction/)
+Spec for **spilloveraction** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/spillover/spilloveraction/spilloveraction/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

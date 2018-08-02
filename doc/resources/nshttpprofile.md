@@ -1,8 +1,6 @@
 # Resource nshttpprofile
 
-Spec for nshttpprofile resource
-
-[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/ns/nshttpprofile/nshttpprofile/)
+Spec for **nshttpprofile** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/ns/nshttpprofile/nshttpprofile/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)

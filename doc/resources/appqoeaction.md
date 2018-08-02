@@ -1,8 +1,6 @@
 # Resource appqoeaction
 
-Spec for appqoeaction resource
-
-[Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/appqoe/appqoeaction/appqoeaction/)
+Spec for **appqoeaction** resource - [Official citrix documentation page](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/configuration/appqoe/appqoeaction/appqoeaction/)
 
 - [Identifier](#identifier)
 - [Operations](#operations)
