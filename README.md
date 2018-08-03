@@ -9,8 +9,8 @@ A binding is described through a source and target resources, plus optional fiel
 At the difference of a resource, a binding can not be updated/renamed.
 
 These specs are used to automate the creation of the following projects :
-- [Netscaler Nitro client written in go](https://github.com/doubret/citrix-netscaler-nitro-go-client)
-- [Terraform provider plugin for Netscaler](https://github.com/doubret/citrix-netscaler-nitro-go-client)
+- [Citrix Netscaler NITRO client written in go](https://github.com/doubret/citrix-netscaler-nitro-go-client)
+- [Terraform provider plugin for Citrix Netscaler](https://github.com/doubret/citrix-netscaler-terraform-provider)
 
 ## Documentations
 
